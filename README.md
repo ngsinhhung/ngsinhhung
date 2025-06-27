@@ -56,7 +56,7 @@ I am [Hung](https://github.com/ngsinhhung), a backend developer with a passion f
 
 
 ## Spotify Playing 🎧
-[<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31zukiybn5tyjknezfhdb2gqil6y&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31zukiybn5tyjknezfhdb2gqil6y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/djehel041cfyz8fyrsqpnoftn)
+[<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31zukiybn5tyjknezfhdb2gqil6y&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31zukiybn5tyjknezfhdb2gqil6y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" alt="Spotify Now Playing" width="auto" style="float: left; margin-right: 10px;" />]()
 
 
 

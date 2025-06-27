@@ -1,34 +1,14 @@
 <!-- ## Hi there 👋 -->
 
-<!-- Title The Full Name -->
-<!-- <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=1000&background=FF1EBB00&center=true&vCenter=true&width=500&height=60&lines=Nguy%E1%BB%85n+Sinh+H%C3%B9ng" alt="Typing SVG" /></a>
-</P> -->
-
-  
 
 
-<!--
-**ngsinhhung/ngsinhhung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=1000&background=FF1EBB00&center=true&vCenter=true&width=500&height=60&lines=Nguy%E1%BB%85n+Sinh+H%C3%B9ng" alt="Typing SVG" /></a>
 
   <br/>
 
-  <img src="./Assests/code.gif" alt="Backend Open Source" align="center" width="500">
+  <img src="./Assests/code.gif" alt="Backend Open Source" align="center" width="auto">
 
   <br/>
 
@@ -56,7 +36,7 @@ I am [Hung](https://github.com/ngsinhhung), a backend developer with a passion f
 
 
 ## Spotify Playing 🎧
-[<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31zukiybn5tyjknezfhdb2gqil6y&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31zukiybn5tyjknezfhdb2gqil6y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)" alt="Spotify Now Playing" width="auto" style="float: left; margin-right: 10px;" />]()
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zukiybn5tyjknezfhdb2gqil6y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 

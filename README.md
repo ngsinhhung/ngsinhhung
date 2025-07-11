@@ -45,8 +45,8 @@ I am [Hung](https://github.com/ngsinhhung), a backend developer with a passion f
 <a style="margin-right:20px" href="mailto:sinhhung.ng@gmail.com">
   <img alt="Nguyen Sinh Hung | Gmail" width="35px" src="./Assests/Gmail.svg" />
 </a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a style="margin-right:20px" href="#">
-  <img alt="Nguyen Sinh Hung | Leetcode" width="35px" src="./Assests/leetcode.png" />
+<!-- <a style="margin-right:20px" href="#">
+  <img alt="Nguyen Sinh Hung | Leetcode" width="35px" src="./Assests/leetcode.png" /> -->
 </a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a style="margin-right:20px" href="https://github.com/ngsinhhung">
   <img alt="Nguyen Sinh Hung | Github" width="35px" src="./Assests/github.gif" />
